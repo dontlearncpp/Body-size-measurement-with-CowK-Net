@@ -1,0 +1,4 @@
+# ninja log v5
+1	3599	0	/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/build/temp.linux-x86_64-cpython-37/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/src/cpu/ms_deform_attn_cpu.o	4117b0db6a37b3dd
+1	10802	0	/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/build/temp.linux-x86_64-cpython-37/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/src/cuda/ms_deform_attn_cuda.o	8edca3a130a59b83
+1	18013	0	/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/build/temp.linux-x86_64-cpython-37/media/xingshixu/367a0adf-4bec-4c64-b23d-945aacb28ba5/yang_keypoint/ED-Pose-master/models/edpose/ops/src/vision.o	7904c8217b81257e
