@@ -17,6 +17,7 @@ Changing the util/visualizer.py with visualizer-test.py, the name shoule be unch
 Using this file, the coordinate of predicted keypoints will be written in test.txt
 ## Environment Setup
 Install Pytorch and torchvision
+
 pip install -r requirements.txt
 # Measurement of cow body size
 IIn the 6points.py the body size was automated measured.
