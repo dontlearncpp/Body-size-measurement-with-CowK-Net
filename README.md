@@ -2,6 +2,8 @@
 
 The keypoints was detected with CowK-Net, and the body size was measured with 6points.py  
 # CowK-Net
+![16-16-2024-02-19-10_55_24 551441_4](https://github.com/dontlearncpp/Body-size-measurement-with-CowK-Net/assets/103402250/83e25383-d69d-4ff8-a989-bfee48b05fea)
+
 ## Train
 --output_dir "logs/coco_r50" -c config/edpose.cfg.py --options batch_size=4 epochs=60 lr_drop=55 num_body_points=6 backbone=resnet50 --dataset_file="coco"
 ## eval 
