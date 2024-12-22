@@ -10,6 +10,7 @@ The keypoints was detected with CowK-Net, and the body size was measured with 6p
 
 ## Train
 --output_dir "logs/coco_r50" -c config/edpose.cfg.py --options batch_size=4 epochs=60 lr_drop=55 num_body_points=6 backbone=resnet50 --dataset_file="coco"
+the image can be download at :(https://drive.google.com/file/d/1-yDWBFpRkxwWtA-WFJ3k8Ppqg3n7Qtm9/view?usp=drive_link)
 ## eval 
 --output_dir "logs/coco_r50" -c logs/coco_r50/config_cfg.py --options batch_size=4 epochs=60 lr_drop=55 num_body_points=6 backbone=resnet50 --dataset_file="coco" --pretrain_model_path="logs/coco_r50/checkpoint_best_regular.pth" --eval
 ## test and the output of keypoints
