@@ -20,7 +20,8 @@ This model also trained and test on those two datasets.
 The image can be download at:
 * [Cowdatabase](https://github.com/ruchaya/CowDatabase)
 * [Cowdatabase2](https://github.com/ruchaya/CowDatabase2)
-The left camera rgb image of two dataset are applied for train and test.
+  
+The rgb images captured from left Kinect camera are applied for train and test.
 The json file with 6 points are avelibale.
 
 ## Environment Setup
