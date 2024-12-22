@@ -15,6 +15,14 @@ The keypoints was detected with CowK-Net, and the body size was measured with 6p
 ## test and the output of keypoints
 Changing the util/visualizer.py with visualizer-test.py, the name shoule be unchange.
 Using this file, the coordinate of predicted keypoints will be written in test.txt
+## Tese on CowDatabase and CowDatabase1
+This model also trained and test on those two datasets.
+The image can be download at:
+* [Cowdatabase](https://github.com/ruchaya/CowDatabase)
+* [Cowdatabase2](https://github.com/ruchaya/CowDatabase2)
+The left camera rgb image of two dataset are applied for train and test.
+The json file with 6 points are avelibale.
+
 ## Environment Setup
 Install Pytorch and torchvision
 
