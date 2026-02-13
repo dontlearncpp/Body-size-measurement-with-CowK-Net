@@ -4,6 +4,8 @@
 The keypoints was detected with CowK-Net, and the body size was measured with 6points.py 
 
 # CowK-Net
+please cite our paper:
+[One-stage keypoint detection network for end-to-end cow body measurement]([url](https://www.sciencedirect.com/science/article/abs/pii/S0952197625003331))
 <div align=center>
 <img src="https://github.com/dontlearncpp/Body-size-measurement-with-CowK-Net/assets/103402250/83e25383-d69d-4ff8-a989-bfee48b05fea"> 
 </div>
